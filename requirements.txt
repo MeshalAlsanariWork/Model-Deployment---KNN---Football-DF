@@ -2,3 +2,4 @@ fastapi[all]
 numpy
 joblib
 pydantic
+sklearn
