@@ -2,5 +2,4 @@ fastapi[all]
 numpy
 joblib
 pydantic
-scikit-learn==1.2.2
-numpy==1.23.5  # Use the version from your local machine
+
